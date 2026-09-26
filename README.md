@@ -16,7 +16,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 data-importer="text" align="left">🛠 Language and tools I've worked with!</h3>
 
 ###
 
